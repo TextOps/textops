@@ -1,0 +1,19 @@
+{
+  "name": "textops",
+  "version": "1.0.0",
+  "description": "Install TextOps Claude Code skills",
+  "main": "src/index.js",
+  "bin": {
+    "textops": "./bin/textops.js"
+  },
+  "scripts": {
+    "test": "node bin/textops.js install --dry-run"
+  },
+  "keywords": ["claude", "skills", "textops", "ai"],
+  "author": "textops",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
