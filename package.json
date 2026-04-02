@@ -1,6 +1,6 @@
 {
   "name": "textops-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Install TextOps Claude Code skills",
   "main": "src/index.js",
   "bin": {
