@@ -1,5 +1,5 @@
 {
-  "name": "textops",
+  "name": "@textops/cli",
   "version": "1.0.0",
   "description": "Install TextOps Claude Code skills",
   "main": "src/index.js",
